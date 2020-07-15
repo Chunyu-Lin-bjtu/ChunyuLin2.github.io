@@ -75,33 +75,44 @@
 
 #### 学术成果
 - **项目1**  
-1.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, Yang Zheng, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention. J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
+1.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, Yang Zheng, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention,
+J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
 
-2.      Shangrong Yang, Chunyu Lin*, Kang Liao, Yao Zhao, Meiqin Liu, Unsupervised fisheye image correction through bidirectional loss with geometric prior. J. Vis. Commun. Image Represent. 66: 102692 (2020).
+2.      Shangrong Yang, Chunyu Lin*, Kang Liao, Yao Zhao, Meiqin Liu, Unsupervised fisheye image correction through bidirectional loss with geometric prior,
+J. Vis. Commun. Image Represent. 66: 102692 (2020).
 
 3.      Haojie Liu, Kang Liao, Chunyu Lin*, Yao Zhao, Meiqin Liu, PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. Sensors 20(6): 1573 (2020).
 
-4.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time. IEEE Trans. Circuits Syst. Video Techn. 30(3): 725-733 (2020).
+4.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, DR-GAN: Automatic Radial Distortion Rectification Using Conditional GAN in Real-Time,
+IEEE Trans. Circuits Syst. Video Techn. 30(3): 725-733 (2020).
 
-5.      Kang Liao, Chunyu Lin*, Yao Zhao, Mai Xu, Model-Free Distortion Rectification Framework Bridged by Distortion Distribution Map. IEEE Trans. Image Process. 29: 3707-3718 (2020).
+5.      Kang Liao, Chunyu Lin*, Yao Zhao, Mai Xu, Model-Free Distortion Rectification Framework Bridged by Distortion Distribution Map,
+IEEE Trans. Image Process. 29: 3707-3718 (2020).
 
-6.      Xue Zhang, Laura Toni, Pascal Frossard, Yao Zhao, Chunyu Lin, Adaptive Streaming in Interactive Multiview Video Systems. IEEE Trans. Circuits Syst. Video Techn. 29(4): 1130-1144 (2019).
+6.      Xue Zhang, Laura Toni, Pascal Frossard, Yao Zhao, Chunyu Lin, Adaptive Streaming in Interactive Multiview Video Systems,
+IEEE Trans. Circuits Syst. Video Techn. 29(4): 1130-1144 (2019).
 
-7.      C. Lin, Y. Zhao, J. Xiao and T. Tillo, "Region-based multiple description coding for multiview video plus depth video," in IEEE Transactions on Multimedia, vol.20, no.5, pp.1209-1223, 2018.
+7.      C. Lin, Y. Zhao, J. Xiao and T. Tillo, "Region-based multiple description coding for multiview video plus depth video," 
+in IEEE Transactions on Multimedia, vol.20, no.5, pp.1209-1223, 2018.
 
-8.      Y. Gao, C. Lin*, Y. Zhao, X. Wang, S. Wei and Q. Huang, "3-D Surround View for Advanced Driver Assistance Systems," in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 1, pp. 320-328, Jan. 2018.
+8.      Y. Gao, C. Lin*, Y. Zhao, X. Wang, S. Wei and Q. Huang, "3-D Surround View for Advanced Driver Assistance Systems,"
+in IEEE Transactions on Intelligent Transportation Systems, vol. 19, no. 1, pp. 320-328, Jan. 2018.
 
 9.      Qian Li, Chunyu Lin*, Yao Zhao, Geometric Features-Based Parking Slot Detection. Sensors 18(9): 2821, pp.1-16, 2018.
 
-10.    Xue Zhang, Yao Zhao, Tammam Tillo, Chunyu Lin, A packetization strategy for interactive multiview video streaming over lossy networks. Signal Processing 145: 285-294 (2018).
+10.    Xue Zhang, Yao Zhao, Tammam Tillo, Chunyu Lin, A packetization strategy for interactive multiview video streaming over lossy networks,
+Signal Processing 145: 285-294 (2018).
 
-11.    Yan Dong, Chunyu Lin*, Yao Zhao, Chao Yao, Depth map upsampling using joint edge-guided convolutional neural network for virtual view synthesizing, Journal of Electronic Imaging, vol.26, no.4, pp.1- 9, 2017.
+11.    Yan Dong, Chunyu Lin*, Yao Zhao, Chao Yao, Depth map upsampling using joint edge-guided convolutional neural network for virtual view synthesizing, 
+Journal of Electronic Imaging, vol.26, no.4, pp.1- 9, 2017.
 
-12.    Hongyun Lin, Chunyu Lin*, Yao Zhao, Anhong Wang, 3D saliency detection based on background detection, Journal of Visual Communication and Image Representation, vol. 48, pp.238-253, 2017.
+12.    Hongyun Lin, Chunyu Lin*, Yao Zhao, Anhong Wang, 3D saliency detection based on background detection,
+Journal of Visual Communication and Image Representation, vol. 48, pp.238-253, 2017.
 
 13.    Meiqin Liu, Yao Zhao, Jie Liang, Chunyu Lin, Huihui Bai, Chao Yao,Depth map up-sampling with fractal dimension and texture-depth boundary consistencies. Neurocomputing 257: 185-192 (2017).
 
-14.    C. Yao, J. Xiao, T. Tillo, Y. Zhao, C. Lin and H. Bai, "Depth Map Down-Sampling and Coding Based on Synthesized View Distortion," in IEEE Transactions on Multimedia, vol. 18, no. 10, pp. 2015-2022, Oct. 2016.
+14.    C. Yao, J. Xiao, T. Tillo, Y. Zhao, C. Lin and H. Bai, "Depth Map Down-Sampling and Coding Based on Synthesized View Distortion,"
+in IEEE Transactions on Multimedia, vol. 18, no. 10, pp. 2015-2022, Oct. 2016.
 
 15.    J. Jin, A. Wang, Y. Zhao, C. Lin and B. Zeng, "Region-Aware 3-D Warping for DIBR," in IEEE Transactions on Multimedia, vol. 18, no. 6, pp. 953-966, June 2016.
 
@@ -109,25 +120,32 @@
 
 17.    Xing Zheng, Yao Zhao, Huihui Bai, Chunyu Lin,Fast Algorithm for Intra Prediction of HEVC Using Adaptive Decision Trees. TIIS 10(7): 3286-3300 (2016).
 
-18.    Chunyu Lin, Yao Zhao, Tillo, T. , and Jimin Xiao, Multiple Description Coding for Stereoscopic Videos with Stagger Frame Order, IEEE Transactions on Circuits and Systems for Video Technology, vol.25,no.6,pp.1016-1025, 2015.
+18.    Chunyu Lin, Yao Zhao, Tillo, T. , and Jimin Xiao, Multiple Description Coding for Stereoscopic Videos with Stagger Frame Order, 
+IEEE Transactions on Circuits and Systems for Video Technology, vol.25,no.6,pp.1016-1025, 2015.
 
 19.    Lin C, Zhao Y, Xiao J, et al. Depth Map Coding Using Histogram-Based Segmentation and Depth Range Updating[J]. KSII Transactions on Internet & Information Systems, 2015, 9:1121-1139.
 
-20.    Lin C, Tillo T, Xiao J, et al. Optimizing the deadzone width to improve the polyphase-based multiple description coding[J]. Multimedia Tools & Applications, 2014, 68(3):863-875.
+20.    Lin C, Tillo T, Xiao J, et al. Optimizing the deadzone width to improve the polyphase-based multiple description coding[J],
+Multimedia Tools & Applications, 2014, 68(3):863-875.
 
 21.    Han Huang, Yao Zhao, Chunyu Lin, Huihui Bai,Fast Intraframe Coding for High Efficiency Video Coding. TIIS 8(3): 1093-1104 (2014).
 
 22.    Lei Liu, Yao Zhao, Chunyu Lin, Huihui Bai,Auto-Covariance Analysis for Depth Map Coding. TIIS 8(9): 3146-3158 (2014).
 
-23.    J. Xiao, T. Tillo, C. Lin, Y. Zhang and Y. Zhao, "A Real-Time Error Resilient Video Streaming Scheme Exploiting the Late- and Early-Arrival Packets," in IEEE Transactions on Broadcasting, vol. 59, no. 3, pp. 432-444, Sept. 2013.
+23.    J. Xiao, T. Tillo, C. Lin, Y. Zhang and Y. Zhao, "A Real-Time Error Resilient Video Streaming Scheme Exploiting the Late- and Early-Arrival Packets,"
+in IEEE Transactions on Broadcasting, vol. 59, no. 3, pp. 432-444, Sept. 2013.
 
-24.    J. Xiao, T. Tillo, C. Lin and Y. Zhao, "Dynamic Sub-GOP Forward Error Correction Code for Real-Time Video Applications," in IEEE Transactions on Multimedia, vol. 14, no. 4, pp. 1298-1308, Aug. 2012.
+24.    J. Xiao, T. Tillo, C. Lin and Y. Zhao, "Dynamic Sub-GOP Forward Error Correction Code for Real-Time Video Applications," 
+in IEEE Transactions on Multimedia, vol. 14, no. 4, pp. 1298-1308, Aug. 2012.
 
-25.    Chunyu Lin, Tillo, T. , Yao Zhao and Byeungwoo Jeon, Multiple Description Coding for H.264/AVC With Redundancy Allocation at Macro Block Level, IEEE Transactions on Circuits and Systems for Video Technology, vol.21, no.5, pp.589-600, 2011.
+25.    Chunyu Lin, Tillo, T. , Yao Zhao and Byeungwoo Jeon, Multiple Description Coding for H.264/AVC With Redundancy Allocation at Macro Block Level,
+IEEE Transactions on Circuits and Systems for Video Technology, vol.21, no.5, pp.589-600, 2011.
 
-26.    Jimin Xiao, Tammam Tillo, Chunyu Lin, Yao Zhao,Error-resilient video coding with end-to-end rate-distortion optimized at macroblock level. EURASIP J. Adv. Sig. Proc. 2011: 80 (2011).
+26.    Jimin Xiao, Tammam Tillo, Chunyu Lin, Yao Zhao,Error-resilient video coding with end-to-end rate-distortion optimized at macroblock level,
+EURASIP J. Adv. Sig. Proc. 2011: 80 (2011).
 
-27.    imin Xiao, Tammam Tillo, Chunyu Lin, Yao Zhao,Joint redundant motion vector and intra macroblock refreshment for video transmission. EURASIP J. Image and Video Processing 2011: 12 (2011)
+27.    imin Xiao, Tammam Tillo, Chunyu Lin, Yao Zhao,Joint redundant motion vector and intra macroblock refreshment for video transmission,
+EURASIP J. Image and Video Processing 2011: 12 (2011)
 
 28.     Chunyu Lin, Yao Zhao, Ce Zhu,Two-Stage Multiple Description Image Coding Using TCQ. IJWMIP 7(5): 665-673 (2009).
 
