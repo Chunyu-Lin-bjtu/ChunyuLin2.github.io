@@ -138,10 +138,9 @@ EURASIP J. Image and Video Processing 2011: 12 (2011)
 - 2017年 指导学生入围第十届全国大学生创新创业年会，国家级一等奖
 - 2019年 全国三维数字化创新设计大赛（3D/VR方向）龙鼎奖 指导教师
 ### 社会兼职
-- 2011年度北京交通大学优秀博士论文
 - IEEE Member,电子学会会员，中国图像图形学学会高级会员
 - 中国图像图形学学会学术会议与交流工委会秘书长
 - NCIG2018展览主席，ICIG2019出版主席，NCIG2020出版主席
 - PCM2015 APASIAP2016 ICIG2017 分论坛主席
-- IEEE TCSVT, TMM, TIP,TITS, SPL, JVCIR,PR, PR Letter，TWireless, MTP，KIIS,JEL等期刊审稿人
+- IEEE TCSVT, TMM, TIP,TITS, SPL, JVCIR, PR, PR Letter, TWireless, MTP, KIIS, JEL, EURASIP Journal on Image and Video Processing，	EURASIP JOURNAL ON ADVANCES IN SIGNAL PROCESSING 等期刊审稿人
 - 电子学报，计算机学报，通信学报，软件学报，信号处理，计算机工程与应用，计算机科学与探索等期刊审稿人
