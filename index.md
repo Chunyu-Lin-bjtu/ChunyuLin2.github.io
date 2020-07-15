@@ -75,10 +75,9 @@
 
 #### 学术成果
 - **项目1**  
-1.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention,
-J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
+1. Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention, J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
 
-2.      Shangrong Yang, Chunyu Lin*, Kang Liao, Yao Zhao,  Unsupervised fisheye image correction through bidirectional loss with geometric prior,
+2. Shangrong Yang, Chunyu Lin*, Kang Liao, Yao Zhao,  Unsupervised fisheye image correction through bidirectional loss with geometric prior,
 J. Vis. Commun. Image Represent. 66: 102692 (2020).
 
 3.      Haojie Liu, Kang Liao, Chunyu Lin*, Yao Zhao, PLIN: A Network for Pseudo-LiDAR Point Cloud Interpolation. Sensors 20(6): 1573 (2020).
