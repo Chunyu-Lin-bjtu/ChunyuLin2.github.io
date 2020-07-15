@@ -75,7 +75,7 @@
 
 #### 学术成果
 - **项目1**  
-1.         Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, Yang Zheng, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention. J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
+1.      Kang Liao, Chunyu Lin*, Yao Zhao, Moncef Gabbouj, Yang Zheng, OIDC-Net: Omnidirectional Image Distortion Correction via Coarse-to-Fine Region Attention. J. Sel. Topics Signal Processing 14(1): 222-231 (2020).
 
 2.      Shangrong Yang, Chunyu Lin*, Kang Liao, Yao Zhao, Meiqin Liu, Unsupervised fisheye image correction through bidirectional loss with geometric prior. J. Vis. Commun. Image Represent. 66: 102692 (2020).
 
@@ -132,35 +132,6 @@
 28.     Chunyu Lin, Yao Zhao, Ce Zhu,Two-Stage Multiple Description Image Coding Using TCQ. IJWMIP 7(5): 665-673 (2009).
 
 29.    C. Lin, Y. Zhao and C. Zhu, "Two-Stage Diversity-Based Multiple Description Image Coding," in IEEE Signal Processing Letters, vol. 15, pp. 837-840, 2008.
-
-SHAPE \* MERGEFORMAT
-
-1.        Shiyuan Li, Chunyu Lin, Kang Liao, Yao Zhao, Xue Zhang, Panoramic Image Quality-Enhancement by Fusing Neural Textures of the Adaptive Initial Viewport. VR Workshops 2020: 817-818.
-
-2.        Yaru Li, Li Yu, Chunyu Lin, Yao Zhao, Moncef Gabbouj,Convolutional Neural Network Based Inter-Frame Enhancement for 360-Degree Video Streaming. PCM (2) 2018: 57-66.
-
-3.        Xue Zhang, Laura Toni, Pascal Frossard, Yao Zhao, Chunyu Lin,Optimized receiver control in interactive multiview video streaming systems. ICC 2017: 1-6.
-
-4.        Xin Wang, Chunyu Lin, Yi Gao, Yaru Li, Shikui Wei, Yao Zhao,A Vehicle-Mounted Multi-camera 3D Panoramic Imaging Algorithm Based on Ship-Shaped Model. ICIG (3) 2017: 445-457.
-
-5.        Xinyu Shen, Chunyu Lin, Yao Zhao, Hongyun Lin, Meiqin Liu,Saliency detection using secondary quantization in DCT domain. APSIPA 2016: 1-5.
-
-6.        Yan Dong, Chunyu Lin, Yao Zhao, Chao Yao, Jingxuan Hou,Depth map up-sampling with texture edge feature via sparse representation. VCIP 2016: 1-4.
-
-7.        Jian Jin, Anhong Wang, Yao Zhao, Chunyu Lin,A fast region-level 3D-warping method for depth-image-based rendering. MMSP 2015: 1-6.
-
-8.        Lei Liu, Jie Liang, Yao Zhao, Chunyu Lin, Huihui Bai,Quantized dictionary for sparse representation. MMSP 2015: 1-6.
-
-9.        Hongyun Lin, Chunyu Lin, Yao Zhao, Jimin Xiao, Tammam Tillo,Depth-Based Stereoscopic Projection Approach for 3D Saliency Detection. PCM (1) 2015: 664-673.
-
-10.      Xing Li, Yao Zhao, Chunyu Lin, Chao Yao,Local stereo matching algorithm using rotation-skeleton-based region. MMSP 2014: 1-6.
-
-11.      Lili Meng, Jie Liang, Yao Zhao, Huihui Bai, Chunyu Lin, André Kaup,M-channel multiple description coding based on uniformly offset quantizers with optimal deadzone. ICASSP 2013: 2026-2030.
-
-12.      Chunyu Lin, Yao Zhao, Jimin Xiao, Tammam Tillo,Multiple description video coding based on forward error correction within expanding windows. ICIP 2013: 1909-1913.
-
-13.      Lei Liu, Anhong Wang, Kongfen Zhu, Chunyu Lin, Yao Zhao,Directional block compressed sensing for image coding. ISCAS 2013: 1644-1647.
-
 
 - **项目2**  
 项目描述
